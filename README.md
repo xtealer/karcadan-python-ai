@@ -35,6 +35,7 @@ The model endpoints expects a json input as shown in the example below:
     "Number of Employees": "11-50"
 }
 ```
+For the `string` input values, the list of each unique value is in this [json file](https://github.com/xtealer/karcadan-python-ai/blob/main/feature_values.json)
 **Note** `Money Raised` and `Total Funding` should be `integers` or `floats` and not a `string`
 
 ## Output
